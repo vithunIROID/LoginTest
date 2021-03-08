@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="logo_dimens">140dp</dimen>
+
+    <dimen name="screen_padding_one">24dp</dimen>
+
+    <dimen name="et_max_width">400dp</dimen>
+
+    <dimen name="corner_radius">12dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="button_text_size">16sp</dimen>
+
+    <dimen name="margin_extra_large">64dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <dimen name="text_extra_large">32sp</dimen>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonStyle"
+        parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/navi_blue_700</item>
+        <item name="rippleColor">@color/navi_blue_200</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CounterOverFlow" parent="TextAppearance.Design.Counter.Overflow">
+        <item name="android:textColor">@color/navi_blue_700</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="placeholderTextColor">@color/text_color_light</item>
+        <item name="boxStrokeColor">@color/text_color_dark</item>
+        <item name="counterTextColor">@color/green_700</item>
+        <item name="counterEnabled">true</item>
+        <item name="counterOverflowTextColor">@color/navi_blue_700</item>
+        <item name="hintTextColor">@color/text_color_dark</item>
+    </style>
+
+</resources>
